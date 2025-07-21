@@ -1,11 +1,5 @@
 ## Team: Oxfff
 
-- **Irina Botici**  
-- **Cristina Elena Hudisteanu**  
-- **Andrei Liviu Labau**
-
----
-
 ## Stage 1
 
 In this stage, we implemented the following functionalities for a pawn:
